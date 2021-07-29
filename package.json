@@ -1,0 +1,19 @@
+{
+  "name": "dropdown-menu-basic",
+  "version": "1.0.0",
+  "description": "A simple dropdown in vanilla javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-lvl/dropdown-menu-basic.git"
+  },
+  "author": "Alex Marmolejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-lvl/dropdown-menu-basic/issues"
+  },
+  "homepage": "https://github.com/alex-lvl/dropdown-menu-basic#readme"
+}

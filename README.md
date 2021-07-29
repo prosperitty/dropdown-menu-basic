@@ -33,11 +33,11 @@ You may customize the styles to suit your project.
 ---
     <div class="dropdown">
       <button class="dropdown-btn">menu</button>
-        <ul class="dropdown-menu">
-            <li class="dropdown-item">link 1</li>
-            <li class="dropdown-item">link 2</li>
-            <li class="dropdown-item">link 3</li>
-        </ul>
+      <ul class="dropdown-menu">
+          <li class="dropdown-item">link 1</li>
+          <li class="dropdown-item">link 2</li>
+          <li class="dropdown-item">link 3</li>
+      </ul>
     </div>
 
 ### Methods
@@ -46,3 +46,7 @@ You may customize the styles to suit your project.
 |Method|Description|
 |----|----|
 |Hover|Activated on mouseover the hoverable button, deactivated on mouseleave
+
+### npm package link
+
+[npm](https://www.npmjs.com/package/dropdown-menu-basic)

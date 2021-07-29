@@ -4,8 +4,6 @@ A simple dropdown in vanilla javascript
 ### How it works
 
 ---
-
-
 Hover over the element with the class of "dropdown-btn". While hovered, the menu should appear. Move the cursor away from the menu or toggler to collapse the menu.
 
 ### Download
@@ -28,9 +26,7 @@ A dropdown requires a hoverable element and a list of links/options.
 
 - Hover over the button or element with the class "dropdown-btn" to open the menu. Move the cursor away from the container to collapse the menu.
 
-
 You may customize the styles to suit your project.
-
 
 ### Usage example
 
@@ -43,7 +39,6 @@ You may customize the styles to suit your project.
             <li class="dropdown-item">link 3</li>
         </ul>
     </div>
-
 
 ### Methods
 

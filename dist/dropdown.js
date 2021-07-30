@@ -1,0 +1,1 @@
+!function(){function e(e,n,o="dropdown-menu-visible"){e.addEventListener("mouseenter",(()=>n.classList.add(o))),e.addEventListener("mouseleave",(()=>n.classList.remove(o)))}document.querySelectorAll(".dropdown").forEach((n=>{const o=[...n.children];for(let s of o)s.classList.contains("dropdown-menu")&&e(n,s)}))}();

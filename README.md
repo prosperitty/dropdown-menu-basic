@@ -31,6 +31,11 @@ You may customize the styles to suit your project.
 ### Usage example
 
 ---
+```js
+    import { activateDropDown } from 'dropdown-menu-basic';
+```
+
+
     <div class="dropdown">
       <button class="dropdown-btn">menu</button>
       <ul class="dropdown-menu">

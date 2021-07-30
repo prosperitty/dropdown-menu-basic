@@ -1,4 +1,4 @@
-const dropdown = document.querySelectorAll('.dropdown');
+export { activateDropDown }
 
 function dropDownHover(
   dropdownContainer,
@@ -13,11 +13,14 @@ function dropDownHover(
   );
 }
 
-dropdown.forEach((e) => {
-  const dropdownChildren = [...e.children];
-  for (let child of dropdownChildren) {
-    if (child.classList.contains('dropdown-menu')) {
-      dropDownHover(e, child);
+function activateDropDown() {
+  const dropdown = document.querySelectorAll('.dropdown');
+  dropdown.forEach((e) => {
+    const dropdownChildren = [...e.children];
+    for (let child of dropdownChildren) {
+      if (child.classList.contains('dropdown-menu')) {
+        dropDownHover(e, child);
+      }
     }
-  }
-});
+  });
+}

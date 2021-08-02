@@ -32,18 +32,18 @@ You may customize the styles to suit your project.
 
 ---
 ```js
-    import { activateDropDown } from 'dropdown-menu-basic';
+import { activateDropDown } from 'dropdown-menu-basic';
 ```
 
 
-    <div class="dropdown">
-      <button class="dropdown-btn">menu</button>
-      <ul class="dropdown-menu">
-          <li class="dropdown-item">link 1</li>
-          <li class="dropdown-item">link 2</li>
-          <li class="dropdown-item">link 3</li>
-      </ul>
-    </div>
+<div class="dropdown">
+    <button class="dropdown-btn">menu</button>
+    <ul class="dropdown-menu">
+        <li class="dropdown-item">link 1</li>
+        <li class="dropdown-item">link 2</li>
+        <li class="dropdown-item">link 3</li>
+    </ul>
+</div>
 
 ### Methods
 

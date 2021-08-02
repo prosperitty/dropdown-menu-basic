@@ -35,7 +35,7 @@ You may customize the styles to suit your project.
 import { activateDropDown } from 'dropdown-menu-basic';
 ```
 
-
+```
 <div class="dropdown">
     <button class="dropdown-btn">menu</button>
     <ul class="dropdown-menu">
@@ -44,6 +44,7 @@ import { activateDropDown } from 'dropdown-menu-basic';
         <li class="dropdown-item">link 3</li>
     </ul>
 </div>
+```
 
 ### Methods
 

@@ -78,7 +78,6 @@ A clickable dropdown menu:
 |Event|Description|
 |----|----|
 |Hover|Activated on mouseover, deactivated on mouseleave
-|----|----|
 |Click|Activated on click, deactivated on mouseleave
 
 ### npm package link

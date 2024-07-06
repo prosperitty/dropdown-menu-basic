@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex-lvl/dropdown-menu-basic.git"
+    "url": "git+https://github.com/prosperitty/dropdown-menu-basic.git"
   },
   "author": "Alex Marmolejo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alex-lvl/dropdown-menu-basic/issues"
+    "url": "https://github.com/prosperitty/dropdown-menu-basic/issues"
   },
-  "homepage": "https://github.com/alex-lvl/dropdown-menu-basic#readme",
+  "homepage": "https://github.com/prosperitty/dropdown-menu-basic#readme",
   "devDependencies": {
     "webpack": "^5.47.1",
     "webpack-cli": "^4.7.2"
